@@ -1,2 +1,2 @@
 # gohilo
-The game of Hi-Lo written in go
+The game of Hi-Lo written in Go
